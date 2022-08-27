@@ -1,2 +1,2 @@
 # excursion
-A Codecademy project which advertises a product called “Excursion.
+A Codecademy project which advertises a product called “Excursion".
